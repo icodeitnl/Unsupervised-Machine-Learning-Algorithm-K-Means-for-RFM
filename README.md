@@ -22,3 +22,6 @@ To validate the number of clusters, **Elbow Method** is being used. It estimates
 
 
 The *frequency* score table shows that most loyal customer made 24 purchases in 2 years period, while 84151 customers made 1 purchase and 10742 made 2 purchases.
+
+<img src="https://github.com/icodeitnl/Unsupervised-Machine-Learning-algorithm-K-Means-for-RFM/blob/master/FrequencyDistribution.jpg"/>
+
