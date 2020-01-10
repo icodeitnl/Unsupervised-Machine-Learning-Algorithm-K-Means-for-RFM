@@ -8,7 +8,7 @@ This [Dataset](https://www.kaggle.com/olistbr/brazilian-ecommerce) was generousl
 
 After a customer purchases the product from Olist Store a seller gets notified to fulfill that order. Once the customer receives the product, or the estimated delivery date is due, the customer gets a satisfaction survey by email where he can give a note for the purchase experience and write down some comments.
 
-The module [k_means.py](https://github.com/icodeitnl//Unsupervised-Machine-Learning-algorithm-K-Means-for-RFM/blob/master/k_means.py) contains the scripts that bring the order and structure to the selected data.
+The module [k_means.py](https://github.com/icodeitnl//Unsupervised-Machine-Learning-Algorithm-K-Means-for-RFM/blob/master/k_means.py) contains the scripts that bring the order and structure to the selected data.
 
 
 **RFM** method analyses customer value. The abbreviation stands for the attributes used in segmentation, namely *recency, frequency, and monetary value*. **Frequency** determines how often the purchase is made, **recency** defines the most recent purchase and, finally, **monetary value** measures spend per customer.
@@ -18,28 +18,31 @@ In marketing terms, **client segmentation** splits business clients into groups 
 
 To validate the number of clusters, **Elbow Method** is being used. It estimates the optimal value K produced by the cost function. While iterating through increasing *K values*, average distortion decreases and vice a versa. The “elbow” calculates the point where distortion declines or in other words if the plot looks like an arm, the elbow is where the forearm begins.
 
-<img src="https://github.com/icodeitnl/Unsupervised-Machine-Learning-algorithm-K-Means-for-RFM/blob/master/Elbow.jpg"/>
+<img src="https://github.com/icodeitnl/Unsupervised-Machine-Learning-Algorithm-K-Means-for-RFM/blob/master/Elbow.jpg"/>
 
 
 The frequency score table shows that *most frequent customer* made 24 purchases in 2 years period, while 84151 customers made 1 purchase and 10742 made 2 purchases. *Total number of customers* is 96096.
 
-<img src="https://github.com/icodeitnl/Unsupervised-Machine-Learning-algorithm-K-Means-for-RFM/blob/master/FrequencyDistribution.jpg"/>
+<img src="https://github.com/icodeitnl/Unsupervised-Machine-Learning-Algorithm-K-Means-for-RFM/blob/master/FrequencyDistribution.jpg"/>
 
 The **Recency Distribution** plot shows that maximum number of days the maximum number of days that have passed since the last purchase to the next is 772 and on average 287 days.
 
-<img src="https://github.com/icodeitnl/Unsupervised-Machine-Learning-algorithm-K-Means-for-RFM/blob/master/RecencyDistribution.jpg"/>
+<img src="https://github.com/icodeitnl/Unsupervised-Machine-Learning-Algorithm-K-Means-for-RFM/blob/master/RecencyDistribution.jpg"/>
 
 **Monetary Value** graph illustrates that the maximum spend was 60480 BRL. The average spent per customer was 160 BRL.
 
-<img src="https://github.com/icodeitnl/Unsupervised-Machine-Learning-algorithm-K-Means-for-RFM/blob/master/MonetaryValue.jpg"/>
+<img src="https://github.com/icodeitnl/Unsupervised-Machine-Learning-Algorithm-K-Means-for-RFM/blob/master/MonetaryValue.jpg"/>
 
 Performing analysis on the data, resulted in the three major clusters. The **High Worth** cluster customers indicate that marketing efforts should be focused on their retention, the **Medium** on retention and spend and the **Low** on increasing the purchase frequency.
 
-<img src="https://github.com/icodeitnl/Unsupervised-Machine-Learning-algorithm-K-Means-for-RFM/blob/master/ClustersMonetaryValueFrequency.jpg"/>
+Plot compares Monetary Value and Frequency
+<img src="https://github.com/icodeitnl/Unsupervised-Machine-Learning-Algorithm-K-Means-for-RFM/blob/master/SegmentsMonetaryValueFrequency.jpg"/>
+Plot compares Monetary Value and Recency
 
-<img src="https://github.com/icodeitnl/Unsupervised-Machine-Learning-algorithm-K-Means-for-RFM/blob/master/ClustersMonetaryValueRecency.jpg"/>
+<img src="https://github.com/icodeitnl/Unsupervised-Machine-Learning-Algorithm-K-Means-for-RFM/blob/master/SegmentsMonetaryValueRecency.jpg"/>
+Plot compares Frequency and Recency
 
-<img src="https://github.com/icodeitnl/Unsupervised-Machine-Learning-algorithm-K-Means-for-RFM/blob/master/ClustersRecencyFrequency.jpg"/>
+<img src="https://github.com/icodeitnl/Unsupervised-Machine-Learning-Algorithm-K-Means-for-RFM/blob/master/SegmentsRecencyFrequency.jpg"/>
 
 
 
