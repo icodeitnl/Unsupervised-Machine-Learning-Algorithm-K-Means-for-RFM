@@ -35,15 +35,15 @@ The **Recency Distribution** plot shows that maximum number of days the maximum 
 
 Performing analysis on the data, resulted in the three major clusters. The **High Worth** cluster customers indicate that marketing efforts should be focused on their retention, the **Medium** on retention and spend and the **Low** on increasing the purchase frequency.
 
-Plot compares Monetary Value and Frequency
+**Plot compares Monetary Value and Frequency.**
 
 <img src="https://github.com/icodeitnl/Unsupervised-Machine-Learning-Algorithm-K-Means-for-RFM/blob/master/SegmentsMonetaryValueFrequency.jpg"/>
 
-Plot compares Monetary Value and Recency
+**Plot compares Monetary Value and Recency.**
 
 <img src="https://github.com/icodeitnl/Unsupervised-Machine-Learning-Algorithm-K-Means-for-RFM/blob/master/SegmentsMonetaryValueRecency.jpg"/>
 
-Plot compares Frequency and Recency
+**Plot compares Frequency and Recency.**
 
 <img src="https://github.com/icodeitnl/Unsupervised-Machine-Learning-Algorithm-K-Means-for-RFM/blob/master/SegmentsFrequencyRecency.jpg"/>
 
