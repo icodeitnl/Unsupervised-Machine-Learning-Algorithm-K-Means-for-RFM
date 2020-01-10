@@ -29,7 +29,10 @@ The **Recency Distribution** plot shows that maximum number of days the maximum 
 
 <img src="https://github.com/icodeitnl/Unsupervised-Machine-Learning-algorithm-K-Means-for-RFM/blob/master/RecencyDistribution.jpg"/>
 
+**Monetary Value** graph illustrates that the maximum spend was 60480 BRL. The average spent per customer was 160 BRL.
+
 <img src="https://github.com/icodeitnl/Unsupervised-Machine-Learning-algorithm-K-Means-for-RFM/blob/master/MonetaryValue.jpg"/>
+
 <img src="https://github.com/icodeitnl/Unsupervised-Machine-Learning-algorithm-K-Means-for-RFM/blob/master/ClustersMonetaryValueFrequency.jpg"/>
 <img src="https://github.com/icodeitnl/Unsupervised-Machine-Learning-algorithm-K-Means-for-RFM/blob/master/ClustersMonetaryValueRecency.jpg"/>
 <img src="https://github.com/icodeitnl/Unsupervised-Machine-Learning-algorithm-K-Means-for-RFM/blob/master/ClustersRecencyFrequency.jpg"/>
