@@ -42,7 +42,7 @@ Plot compares Monetary Value and Recency
 <img src="https://github.com/icodeitnl/Unsupervised-Machine-Learning-Algorithm-K-Means-for-RFM/blob/master/SegmentsMonetaryValueRecency.jpg"/>
 Plot compares Frequency and Recency
 
-<img src="https://github.com/icodeitnl/Unsupervised-Machine-Learning-Algorithm-K-Means-for-RFM/blob/master/SegmentsRecencyFrequency.jpg"/>
+<img src="https://github.com/icodeitnl/Unsupervised-Machine-Learning-Algorithm-K-Means-for-RFM/blob/master/SegmentsFrequencyRecency.jpg"/>
 
 
 
