@@ -8,7 +8,7 @@ This [Dataset](https://www.kaggle.com/olistbr/brazilian-ecommerce) was generousl
 
 After a customer purchases the product from Olist Store a seller gets notified to fulfill that order. Once the customer receives the product, or the estimated delivery date is due, the customer gets a satisfaction survey by email where he can give a note for the purchase experience and write down some comments.
 
-The module [k_means.py](https://github.com/icodeitnl//Unsupervised-Machine-Learning-algorithm-K-Means-for-RFM/blob/masterr/k_means.py) contains the scripts that bring the order and structure to the selected data.
+The module [k_means.py](https://github.com/icodeitnl//Unsupervised-Machine-Learning-algorithm-K-Means-for-RFM/blob/master/k_means.py) contains the scripts that bring the order and structure to the selected data.
 
 
 **RFM** method analyses customer value. The abbreviation stands for the attributes used in segmentation, namely *recency, frequency, and monetary value*. **Frequency** determines how often the purchase is made, **recency** defines the most recent purchase and, finally, **monetary value** measures spend per customer.
