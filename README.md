@@ -25,7 +25,7 @@ The frequency score table shows that *most frequent customer* made 24 purchases 
 
 <img src="https://github.com/icodeitnl/Unsupervised-Machine-Learning-algorithm-K-Means-for-RFM/blob/master/FrequencyDistribution.jpg"/>
 
-The *Recency Distribution* plot shows that maximum number of days the maximum number of days that have passed since the last purchase to the next is 772 and the average is 287.
+The **Recency Distribution** plot shows that maximum number of days the maximum number of days that have passed since the last purchase to the next is 772 and the average is 287.
 
 <img src="https://github.com/icodeitnl/Unsupervised-Machine-Learning-algorithm-K-Means-for-RFM/blob/master/RecencyDistribution.jpg"/>
 
