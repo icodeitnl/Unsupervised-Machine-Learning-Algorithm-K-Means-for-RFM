@@ -33,8 +33,12 @@ The **Recency Distribution** plot shows that maximum number of days the maximum 
 
 <img src="https://github.com/icodeitnl/Unsupervised-Machine-Learning-algorithm-K-Means-for-RFM/blob/master/MonetaryValue.jpg"/>
 
+Performing analysis on the data, resulted in the three major clusters. The **High Worth** cluster customers indicate that marketing efforts should be focused on their retention, the **Medium** on retention and spend and the **Low** on increasing the purchase frequency.
+
 <img src="https://github.com/icodeitnl/Unsupervised-Machine-Learning-algorithm-K-Means-for-RFM/blob/master/ClustersMonetaryValueFrequency.jpg"/>
+
 <img src="https://github.com/icodeitnl/Unsupervised-Machine-Learning-algorithm-K-Means-for-RFM/blob/master/ClustersMonetaryValueRecency.jpg"/>
+
 <img src="https://github.com/icodeitnl/Unsupervised-Machine-Learning-algorithm-K-Means-for-RFM/blob/master/ClustersRecencyFrequency.jpg"/>
 
 
