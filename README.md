@@ -18,4 +18,7 @@ In marketing terms, **client segmentation** splits business clients into groups 
 
 To validate the number of clusters, **Elbow Method** is being used. It estimates the optimal value K produced by the cost function. While iterating through increasing *K values*, average distortion decreases and vice a versa. The “elbow” calculates the point where distortion declines or in other words if the plot looks like an arm, the elbow is where the forearm begins.
 
+<img src="https://github.com/icodeitnl/Unsupervised-Machine-Learning-algorithm-K-Means-for-RFM/blob/master/Elbow.jpg"/>
+
+
 The *frequency* score table shows that most loyal customer made 24 purchases in 2 years period, while 84151 customers made 1 purchase and 10742 made 2 purchases.
