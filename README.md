@@ -25,3 +25,11 @@ The *frequency* score table shows that most loyal customer made 24 purchases in 
 
 <img src="https://github.com/icodeitnl/Unsupervised-Machine-Learning-algorithm-K-Means-for-RFM/blob/master/FrequencyDistribution.jpg"/>
 
+<img src="https://github.com/icodeitnl/Unsupervised-Machine-Learning-algorithm-K-Means-for-RFM/blob/master/RecencyDistribution.jpg"/>
+<img src="https://github.com/icodeitnl/Unsupervised-Machine-Learning-algorithm-K-Means-for-RFM/blob/master/MonetaryValue.jpg"/>
+<img src="https://github.com/icodeitnl/Unsupervised-Machine-Learning-algorithm-K-Means-for-RFM/blob/master/ClustersMonetaryValueFrequency.jpg"/>
+<img src="https://github.com/icodeitnl/Unsupervised-Machine-Learning-algorithm-K-Means-for-RFM/blob/master/ClustersMonetaryValueRecency.jpg"/>
+<img src="https://github.com/icodeitnl/Unsupervised-Machine-Learning-algorithm-K-Means-for-RFM/blob/master/RecencyFrequency.jpg"/>
+
+
+
